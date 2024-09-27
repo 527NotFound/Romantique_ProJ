@@ -1,0 +1,9 @@
+/* styles.css */
+body {
+    background-color: black;
+    color: white;
+}
+
+header, main, section {
+    color: white;
+}
