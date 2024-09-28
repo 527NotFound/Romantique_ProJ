@@ -1,10 +1,10 @@
 .main body {
-  background-color: black;
-  color: wheat;
+  background-color: wheat;
+  color: skyblue;
 }
 
 .main body header,
 .main body main,
 .main body section {
-  color: red;
+  color: blueviolet;
 }
